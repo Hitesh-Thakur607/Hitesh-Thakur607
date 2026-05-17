@@ -131,15 +131,6 @@ Computer Science:
 ---
 
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Thakur607&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🏆 Achievements
 
