@@ -232,6 +232,6 @@ while(alive) {
 
 ### 🚀 "Building systems while understanding what happens underneath them."
 
-<img src="https://komarev.com/ghpvc/?username=Hitesh-Thakur607&style=for-the-badge&color=blue" />
+
 
 </div>
