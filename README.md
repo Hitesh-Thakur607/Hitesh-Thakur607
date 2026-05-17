@@ -1,138 +1,237 @@
-# Hi there, I'm Hitesh Thakur 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Hitesh Thakur
 
-## 🚀 About Me
-🎓 Computer Science Engineering Student  
-💻 Backend & Full Stack Developer  
-⚡ Passionate about scalable backend systems, real-time communication, and system design  
-🧠 Strong problem-solving mindset with 600+ DSA problems solved on LeetCode  
-🌱 Currently learning advanced backend engineering, distributed systems, and production-level architecture  
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+%26+Full+Stack+Developer;Real-Time+Systems+Enthusiast;System+Design+Learner;Node.js+%7C+WebSocket+%7C+MySQL;600%2B+LeetCode+Problems+Solved" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 Computer Science Engineering Student
+💻 Backend & Full Stack Developer
+⚡ Passionate about scalable backend systems, APIs, and real-time communication
+🧠 Strong analytical and problem-solving mindset
+🌱 Currently exploring advanced backend engineering and distributed systems
+🔥 Love understanding systems internally — from networking to scalable architectures
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Hitesh-Thakur607">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/hitesh-thakur">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/hiteshthakurr">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:hitesht130@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Languages
-- Java
-- JavaScript
-- SQL
 
-## ⚙️ Backend Development
-- Node.js
-- Express.js
-- REST APIs
-- WebSocket
-- Authentication & Authorization
-- JWT
-- Cookies & Sessions
-- Middleware
-- Error Handling
-- Rate Limiting
-
-## 🎨 Frontend
-- React.js
-- HTML
-- CSS
-
-## 🗄️ Databases
-- MySQL
-- MongoDB
-- Redis
-
-## ☁️ Concepts & System Design
-- API Gateway
-- Load Balancer
-- CDN
-- Replication
-- Sharding
-- Caching
-- CAP Theorem
-- TCP/IP & OSI Model
-- Asynchronous Programming
-- Microservices Basics
-
-## 🔧 Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,cpp,mysql" />
+</p>
 
 ---
 
-# 📌 Projects
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+* REST APIs
+* WebSocket
+* Authentication & Authorization
+* JWT & Sessions
+* Middleware
+* Error Handling
+* Asynchronous Programming
+* Rate Limiting
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+---
+
+## 🗄️ Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+---
+
+## ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+# 🧠 System Design & CS Fundamentals
+
+```yaml
+System Design:
+  - API Gateway
+  - Load Balancer
+  - CDN
+  - Replication
+  - Sharding
+  - Caching
+  - CAP Theorem
+  - Message Queues
+  - WebSocket Architecture
+
+Computer Science:
+  - Operating Systems
+  - DBMS
+  - Computer Networks
+  - OOPs
+  - Software Engineering
+  - Data Structures & Algorithms
+```
+
+---
+
+# 📌 Featured Projects
 
 ## 💬 WebChat Application
-### Tech Stack:
-React, Node.js, WebSocket, MongoDB
 
-- Built a real-time chat application using WebSocket for low-latency communication
-- Integrated Cloudinary API for media upload and optimized delivery
-- Implemented secure email verification workflow using Resend API
-- Designed scalable REST APIs and handled asynchronous backend operations
+### ⚡ Tech Stack
+
+React • Node.js • WebSocket • MongoDB
+
+### 🚀 Features
+
+* Real-time messaging using WebSocket
+* Low-latency communication system
+* Cloudinary integration for media upload
+* Email verification using Resend API
+* Scalable REST APIs
+* Asynchronous backend workflows
 
 ---
 
 ## 🏥 Hospital Management System
-### Tech Stack:
-Node.js, Express.js, MySQL
 
-- Developed a full stack hospital management platform
-- Implemented role-based access control and workflow-driven operations
-- Created REST APIs for appointment scheduling and patient management
-- Enabled real-time doctor-patient communication using WebSocket
-- Optimized MySQL queries for improved performance and consistency
+### ⚡ Tech Stack
+
+Node.js • Express.js • MySQL
+
+### 🚀 Features
+
+* Role-based access control
+* Appointment scheduling APIs
+* Patient management workflows
+* Real-time doctor-patient communication
+* Optimized MySQL queries
+* Improved backend consistency & performance
 
 ---
 
 ## 🌦️ Weather Forecast Application
-### Tech Stack:
-JavaScript, APIs
 
-- Integrated third-party weather APIs for real-time weather data
-- Built dynamic UI for live weather updates
-- Implemented API error handling and optimized request-response flow
+### ⚡ Tech Stack
 
----
+JavaScript • APIs
 
-# 📚 Currently Exploring
-- Advanced Node.js Internals
-- Distributed Systems
-- Docker & Deployment
-- WebSocket Scaling
-- Message Queues (Kafka/RabbitMQ)
-- Advanced System Design
+### 🚀 Features
+
+* Live weather updates
+* Third-party weather API integration
+* Dynamic frontend rendering
+* Error handling & request optimization
 
 ---
 
-# 🧠 Core CS Fundamentals
-- Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- Computer Networks
-- OOPs
-- Software Engineering
+# 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+* Advanced Node.js Internals
+* Distributed Systems
+* Docker & Deployment
+* WebSocket Scaling
+* Message Queues (Kafka/RabbitMQ)
+* Advanced System Design
+* Cloud Architecture Basics
 
 ---
 
-# 📈 Coding Profiles
+# 📈 Coding Stats
 
-### 🔗 LeetCode
-https://leetcode.com/hiteshthakurr
+<div align="center">
 
-### 🔗 GitHub
-https://github.com/Hitesh-Thakur607
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hitesh-Thakur607&show_icons=true&theme=tokyonight&hide_border=true" />
 
-### 🔗 LinkedIn
-https://linkedin.com/in/hitesh-thakur
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Thakur607&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
-![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitesh-Thakur607&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Thakur607&layout=compact&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Thakur607&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Solved 600+ DSA problems on LeetCode
+🏅 Built real-time full stack applications
+🏅 Strong backend troubleshooting & debugging mindset
+🏅 Focused on scalable backend architecture and asynchronous systems
 
 ---
 
 # ⚡ Fun Fact
-I enjoy understanding how systems work internally — from API request lifecycles and networking fundamentals to scalable backend architectures 🚀
+
+```js
+while(alive) {
+    learn();
+    build();
+    debug();
+    improve();
+}
+```
+
+---
+
+<div align="center">
+
+### 🚀 "Building systems while understanding what happens underneath them."
+
+<img src="https://komarev.com/ghpvc/?username=Hitesh-Thakur607&style=for-the-badge&color=blue" />
+
+</div>
